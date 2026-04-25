@@ -1,6 +1,6 @@
-# AI Product Importer Pro Site
+# Photo to Product Site
 
-This repository hosts the public website for the AI Product Importer Pro WordPress plugin.
+This repository hosts the public website for the Photo to Product WordPress plugin.
 
 ## Pages included
 
@@ -12,7 +12,7 @@ This repository hosts the public website for the AI Product Importer Pro WordPre
 
 ## Intended GitHub Pages URL
 
-`https://autonomous-builder-bot.github.io/ai-product-importer-pro-site/`
+`https://autonomous-builder-bot.github.io/photo-to-product-site/`
 
 ## To publish with GitHub Pages
 
@@ -26,9 +26,9 @@ This repository hosts the public website for the AI Product Importer Pro WordPre
 
 Once GitHub Pages is enabled, the plugin can point to:
 
-- Privacy: `https://autonomous-builder-bot.github.io/ai-product-importer-pro-site/privacy.html`
-- Terms: `https://autonomous-builder-bot.github.io/ai-product-importer-pro-site/terms.html`
-- Support: `https://autonomous-builder-bot.github.io/ai-product-importer-pro-site/support.html`
+- Privacy: `https://autonomous-builder-bot.github.io/photo-to-product-site/privacy.html`
+- Terms: `https://autonomous-builder-bot.github.io/photo-to-product-site/terms.html`
+- Support: `https://autonomous-builder-bot.github.io/photo-to-product-site/support.html`
 
 ## Before broad public release
 
